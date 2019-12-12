@@ -2,7 +2,7 @@
 ## Description
 Makes the F110 an OpenAI Gym Environment. Also allows distributed computation by offloading batches to a server, and recieving a neural network back.
 Currently can do a bunch of cool things, check out ```f110_core.py``` & algorithms directory to get a better idea. 
-## Download Unreal Engine Simulate
+## Download Unreal Engine Simulator
 https://drive.google.com/drive/folders/1O-Ww4SQ1zLWwWga_h24Af2dz0DJEKSkz?usp=sharing
 
 ## Installation
